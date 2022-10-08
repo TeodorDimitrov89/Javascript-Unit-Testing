@@ -102,4 +102,4 @@ dist
 
 # TernJS port file
 .tern-port
-/basic-testing-frontend/node_modules
+/01.testing-basics/basic-testing-frontend/node_modules
