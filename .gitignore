@@ -104,3 +104,4 @@ dist
 .tern-port
 /01.testing-basics/basic-testing-frontend/node_modules
 /02.good-tests/node_modules
+/03.integration-tests/node_modules
