@@ -106,3 +106,4 @@ dist
 /02.good-tests/node_modules
 /03.integration-tests/node_modules
 /04.advanced-testing/node_modules
+/05.mocking-spies/node_modules
