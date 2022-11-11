@@ -107,3 +107,4 @@ dist
 /03.integration-tests/node_modules
 /04.advanced-testing/node_modules
 /05.mocking-spies/node_modules
+/06.testing-DOM/node_modules
